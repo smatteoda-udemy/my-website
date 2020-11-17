@@ -5,13 +5,11 @@ ABC
 Edit on example branch.
 
 Updates made on master github
+
 # my-website
 
-ABC
+Will conflict from server
 
-Edit on example branch.
-
-Updates made on master github# my-website
 
 ABC
 
